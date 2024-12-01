@@ -34,4 +34,13 @@ A full-stack, scalable web platform built using the MERN stack, designed to stre
 
 
 
+If you use this work in your research, please cite:
+
+@article{deeplearning_landclass2024,
+  title={Deep Learning Approach for Land Feature Classification Using Google Earth Imagery},
+  author={[Hema Radhika Reddy, Sykam Sumanjali,Hari Priya, Likhitha Shree]},
+  year={2024}
+}
+
+
 
