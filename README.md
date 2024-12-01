@@ -32,10 +32,6 @@ A full-stack, scalable web platform built using the MERN stack, designed to stre
 
 ---
 
-## 🛠️ Setup Instructions  
-### 1. Clone the Repository  
-```bash  
-git clone <repository-url>  
-cd real-estate-app  
+
 
 
