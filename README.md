@@ -32,6 +32,8 @@ A full-stack, scalable web platform built using the MERN stack, designed to stre
 
 ---
 
+### Workflow 
+![alt text](https://github.com/hemaradhika-reddy/Real-Estate-Web-Application/blob/main/workflow.png)
 
 
 If you use this work in your research, please cite:
