@@ -35,10 +35,20 @@ A full-stack, scalable web platform built using the MERN stack, designed to stre
 ### Workflow 
 ![alt text](https://github.com/hemaradhika-reddy/Real-Estate-Web-Application/blob/main/workflow.png)
 
+## 🚀 Future Enhancements
+-💳 **Integration with payment gateways.
+🤖 **Machine learning for property recommendations.
+🌐 **Multilingual support for global users.
+### 🎯 Challenges Overcome
+- 🧩 **Integrated frontend and backend using tested RESTful APIs.
+- 🛡️ ** Secured the platform against XSS, SQL injection, and other vulnerabilities.
+- 📦 **Managed application state efficiently with Redux.
+- ⚙️ **Maintained scalability with modular architecture for future enhancements.
+
 
 If you use this work in your research, please cite:
 
-@article{deeplearning_landclass2024,
+@article{REWAPPclass2024,
   title={Real Estate web application using MERN},
   author={[Hema Radhika Reddy, Sykam Sumanjali,Hari Priya, Likhitha Shree]},
   year={2024}
